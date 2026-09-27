@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Linkdein Profile</string>
+    <string name="intro"><![CDATA[Bachelor of Computer Science 2027 || Web & Software Development || HTML, CSS, JavaScript, Python, XML, Kotlin || Intern Web & Android Development @GIM]]></string>
+    <string name="location">Kolkata, West Bengal, India</string>
+    <string name="name">Snehasis Maji</string>
+    <string name="beal_ic">🔔</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="cover_image">Cover image</string>
+    <string name="connections">500+ connections</string>
+    <string name="connect">Connect</string>
+    <string name="git">Git</string>
+    <string name="firebase">Firebase</string>
+    <string name="java">Java</string>
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="skills">Skills</string>
+    <string name="date">2023 - 2027</string>
+    <string name="college">Panskura Banamali College (Autonomous)</string>
+    <string name="college_coures">Bachelor of Computer Science</string>
+    <string name="education">Education</string>
+    <string name="internship">I appreciate his efforts and performance during the internship</string>
+    <string name="intern_dt">Jul 2025 - Aug 2025</string>
+    <string name="intern">Global Internship Mission.</string>
+    <string name="intern_web">Software Development Intern (Web Development)</string>
+    <string name="dt_andorid">Sep 2025 - Present</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="experience">Experience</string>
+    <string name="bio">I’m a Bachelor of Computer Science student with a strong interest in software development, web technologies, and Android application development. I enjoy learning how technology works and turning ideas into practical digital solutions. My current technical skills include HTML, CSS, JavaScript, Python, XML, and Kotlin, and I’m continuously working to strengthen my programming and development capabilities. My areas of interest include: 🌐 Web Development 💻 Software Development 📱 Android Development 🐍 Python Programming 🚀 Learning and exploring new technologies I’m particularly interested in gaining hands-on experience through projects, internships, and collaborative opportunities where I can apply my knowledge, learn from experienced professionals, and develop real-world problem-solving skills. As I continue my journey in Computer Science, my goal is to build a strong foundation in development and grow into a skilled software/web/Android developer. I’m always open to connecting with fellow developers, professionals, mentors, and organizations working in technology. 📍 Kolkata, West Bengal 🎓 Bachelor of Computer Science 💻 HTML | CSS | JavaScript | Python | XML | Kotlin 🚀 Web Development | Software Development | Android Development</string>
+    <string name="about">About</string>
+    <string name="message">Message</string>
+</resources>
