@@ -1,9 +1,3 @@
-## 📸 Screenshot
+## Demo
 
-![Login Page](assets/screenshot.png)
-
-## 🎥 Demo
-
-<video src="./img/linkdein_profile.mp4" controls width="700"></video>
-
-##[Watch the demo video](img/linkdein_profile.mp4)
+[Watch the demo video](https://github.com/sis1105/Linkdein-Profile-UI/img/LinkdeinProfile.mp4)
