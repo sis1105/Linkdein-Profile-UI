@@ -1,19 +1,9 @@
-# My Project
+## 📸 Screenshot
 
-A short description of my project.
-
-## 📸 Screenshots
-
-<img src="images/home.png" width="700">
-
-<img src="images/dashboard.png" width="700">
+![Login Page](assets/screenshot.png)
 
 ## 🎥 Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<video src="./img/linkdein_profile.mp4" controls width="700"></video>
 
-## 🚀 Features
-
-- Feature 1
-- Feature 2
-- Feature 3
+##[Watch the demo video](img/linkdein_profile.mp4)
