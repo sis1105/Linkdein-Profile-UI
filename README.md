@@ -1,3 +1,11 @@
-## Demo
+# My Project
+A brief description of my project.
 
-[Watch the demo video](https://github.com/sis1105/Linkdein-Profile-UI/img/LinkdeinProfile.mp4)
+## Demo
+https://github.com/user-attachments/assets/768f1494-4a39-4878-91d5-7fd78daf65d4
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
